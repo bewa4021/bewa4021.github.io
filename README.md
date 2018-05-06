@@ -1,2 +1,2 @@
-# bewa4021.github.io
+# Ben Wasko
 Personal Website
